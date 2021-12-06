@@ -1,0 +1,468 @@
+@import url('http://fonts.cdnfonts.com/css/pf-tempesta-five');
+
+*{
+	
+	margin:0px;
+	padding:0px;
+	font-family:"ＭＳ Ｐゴシック", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Helvetica, sans-serif;
+	font-size:large;
+	}
+
+
+
+
+header {
+	border: 1px solid #903;
+	width: 100%;
+	height:170px;
+	margin-bottom: 15px;
+	background:	linear-gradient(to bottom, rgba(26,26,140,1) 0%,rgba(34,48,198,1) 50%,rgba(27,38,183,1) 51%,rgba(94,107,228,1) 100%);
+
+	overflow: hidden;
+}
+
+.lema{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 40pt;
+	font-family:'PF Tempesta Five', sans-serif;
+	color: white;
+	
+
+
+
+}
+
+.logo{
+	margin-top: -10px;
+	width: 200px; 
+	height: 200px;
+	float:left;
+	
+}
+
+.create{
+	text-align: right;
+	font-size: medium;
+	margin-top: 20px;
+	margin-right:10px;
+	color:white;
+	font-family:Candara;
+
+}
+
+nav{
+	width: 100%;
+}
+
+nav ul{
+	list-style-type:none;
+
+}
+
+nav ul li{
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+
+nav ul li a{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-weight: bold;
+	color: white;
+	background-color: darkblue;
+	text-decoration: none;	
+	display: block;
+}
+
+nav ul li a:hover{
+	background-color: chocolate;
+}
+
+
+section {
+	border: 1px solid #903;
+	width: 65%;
+	height:1100px;
+	margin-bottom: 15px;
+	background-color: lightskyblue;
+	overflow: hidden;
+	float:left;
+	padding-right: 10px;
+	margin-left: 3px;
+	
+}
+
+
+.glowgame{
+display:block;
+margin:auto;
+width: 10cm;
+height: 6cm;
+}
+
+footer{
+
+	background-color: mintcream;
+	height: 99%;
+	border-top: 1px solid #903;
+	width: 101%;
+
+
+
+
+
+}
+
+article{
+text-align: justify;
+margin-left: 0.25cm;
+margin-right: 0.25cm;
+
+}
+
+.iconoNews{
+	
+	float: left;
+	width:30px;
+	height:30px;
+	padding-right: 10px;
+	margin-left: 0.25cm;
+}
+
+.banner{
+float: right;	
+margin-top: 180px;
+}
+
+
+.publicacionestitulo{
+	font-family: 'PF Tempesta Five', sans-serif;
+	color:Navy;
+	text-align: center;
+
+}
+
+.publicacionestipo{
+	font-family:'PF Tempesta Five', sans-serif;
+	color:mediumblue;
+
+}
+
+
+.enlacesPublicaciones{
+
+	text-decoration: none;
+	font-weight: normal;
+	padding-left: 25px;
+	text-align: justify;
+	color: RebeccaPurple;
+
+
+}
+
+aside{
+border: 1px solid #903;
+margin-right: 15px;
+width: 32%;
+float: left;
+height: 1100px;
+margin-bottom: 15px;
+background-color: lightskyblue;
+}
+
+.aside_titulares{
+
+	overflow: scroll;
+
+}
+
+
+
+.titulares{
+padding-left: 10px;
+text-align: justify;
+margin-right: 0.25cm;
+
+}
+
+.titulosnoticias{
+	font-family:'PF Tempesta Five', sans-serif;
+	color: mediumblue;
+
+
+}
+
+
+.titularfoto{
+float: left;
+width:60px;
+height:60px;
+
+
+}
+
+.flechasig{
+	
+	float: right;
+	width:15px;
+	height:15px;
+	padding-right: 10px;
+}
+
+
+.marca_agua{
+
+text-align: left;
+float: left;
+padding-left: 0.3cm;
+width: 2cm;
+height: 2cm;
+}
+
+.iconitos{
+	
+text-align: right;
+  float: right;
+  padding-right: 1cm;
+  padding-top: 0.3cm;
+
+}
+
+.footer2{
+
+	border: 1px solid #903;
+	clear: both;
+	width: 100%;
+	height: 80px;
+	background: linear-gradient(to bottom, rgba(26,26,140,1) 0%,rgba(34,48,198,1) 50%,rgba(27,38,183,1) 51%,rgba(94,107,228,1) 100%);
+
+
+}
+
+.footer2texto{
+	color: white;
+	font-size: 7pt;
+	text-align: center;
+	float:center;
+	margin-left: 2cm;
+	margin-top: 0.5cm;
+
+
+}
+
+.linkfooter{
+	color:white;
+	float:center;
+	text-align: center;
+
+}
+
+
+
+
+
+
+.secmaterias{
+	border: 1px solid #903;
+	width: 99%;
+	height:2025px;
+	margin-bottom: 15px;
+	background-color: lightskyblue;
+	overflow: hidden;
+	float:left;
+	padding-right: 10px;
+	margin-left: 3px;
+	overflow: auto;
+	
+}
+
+
+
+
+
+
+.textoarriba{
+	font-size: 7pt;
+	text-align: right;
+  width: 100%;
+  float: right;
+  padding-right: 1cm;
+
+}
+
+
+
+.videoyoutube{
+	text-align: center;
+}
+
+.textovideo{
+	text-align: center;
+	
+}
+
+.textospriters{
+	text-align: left;
+	margin-right: 2cm;
+	margin-left: 2cm;
+}
+
+.textdownload{
+	text-align: center;
+	margin-right: 2cm;
+	margin-left: 2cm;
+}
+
+.bluebanner{
+
+display:block;
+margin:auto;
+width: 1000px;
+height: 500px;
+}
+
+.fotopablo{
+display:block;
+margin:auto;
+margin-top: 20px;
+
+}
+
+.infodevs{
+
+text-align: center;
+font-style: italic;
+}
+
+
+
+
+
+
+#contenedor_principal{
+	width:1024px;
+	height:auto;
+	position:relative;
+	margin:auto;
+	}
+	
+	.contenedor_imagen_texto{
+	width:335px;
+	height:auto;
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	overflow:hidden;
+	}
+	.imagen, .texto{
+	width:100%;
+	height:auto;
+	position:relative;
+	display:inline;
+	text-align: center;
+	margin-left: 70px;
+	justify-content: center;
+	font-style: italic;
+
+	}
+	
+	.iconolinkedin{
+	display:block;
+	margin:auto;
+	
+	}
+
+	
+.dragon2{
+
+	display:block;
+	margin:auto;
+	
+}
+
+form{
+	width:450px;
+	margin:auto;
+	background: rgba (0,0,0,0.4);
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	border-radius: 7px;
+
+}
+
+input,textarea{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	box-sizing: border-box;
+}
+
+textarea{
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+
+#boton{
+	background:darkblue;
+	color:white;
+	padding: 20px;
+}
+
+#boton:hover{
+	background-color: chocolate;
+
+}
+
+.datosdespacho{
+	margin-left: 20px;
+}
+
+.secmaterias2{
+	border: 1px solid #903;
+	width: 65%;
+	height:700px;
+	margin-bottom: 15px;
+	background-color: lightskyblue;
+	overflow: hidden;
+	float:left;
+	padding-right: 10px;
+	margin-left: 3px;
+}
+
+.aside2{
+	border: 1px solid #903;
+	margin-right: 15px;
+	width: 32%;
+	float: left;
+	height: 700px;
+	margin-bottom: 15px;
+	background-color: lightskyblue;
+	
+	}
+
+.emailimagen{
+
+		display:block;
+		margin:auto;
+	
+		}
+
+
+iframe{
+	display:block;
+	margin: 0 auto;
+}
+
+@media(max-width:480px){
+	form{
+		width:100%;
+
+	}
+}
+
+	
+

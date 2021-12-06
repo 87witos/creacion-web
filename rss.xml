@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+        <title> Mi Canal de RSS</title>
+        <link>https://ittpaul.000webhostapp.com</link>
+        <description>Indie Gaming Studio</description>
+        <item>
+            <title>Unity Software Beats Third-Quarter Targets, Buys Weta Digital </title>
+            <link>https://www.investors.com/news/technology/unity-stock-unity-software-beats-targets-buys-weta-digital/l</link>
+            <description> Video game design and animation software maker Unity Software (U) saw its shares hit a record high on Wednesday after the company beat Wall Street's targets for the third quarter. Unity stock initially fell, but then raced higher.</description>
+            <guid>Unity Software Beats Third-Quarter Targets, Buys Weta Digital </guid>
+        </item>
+        <item>
+            <title>Unity Software's Metaverse Opportunity</title>
+            <link>https://seekingalpha.com/article/4471322-unity-softwares-metaverse-opportunity</link>
+            <description> Unity, after the acquisition of Weta, seems to be well-positioned to capture new revenue streams in the metaverse.</description>
+            <guid>https://seekingalpha.com/article/4471322-unity-softwares-metaverse-opportunity</guid>
+        </item>
+            <item>
+            <title>Why Unity scooped up Weta Digital’s 3D tools for $1.6B</title>
+            <link>hhttps://venturebeat.com/2021/11/14/why-unity-scooped-up-weta-digitals-3d-tools-for-1-6b</link>
+            <description>Peter Jackson’s Weta Digital has made some of the most amazing movie special effects, like Gollum in The Lord of the Rings films. And now Unity Technologies has bought the 3D tools division of Weta for $1.62 billion.</description>
+            <guid>https://venturebeat.com/2021/11/14/why-unity-scooped-up-weta-digitals-3d-tools-for-1-6b/</guid>
+        </item>
+    </channel>
+</rss>
